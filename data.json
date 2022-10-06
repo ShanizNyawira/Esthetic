@@ -3,107 +3,128 @@
     {
       "id": 1,
       "artist": "Aliya Amangeldi",
-      "image": "https://images.unsplash.com/photo-1652398859643-dbe3299f19cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      "image": "https://images.unsplash.com/photo-1652398859643-dbe3299f19cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "likes": 0
     },
     {
       "id": 2,
       "artist": "Pramod Tiwari",
-      "image": "https://images.unsplash.com/photo-1664931297893-0e9b7601d185?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+      "image": "https://images.unsplash.com/photo-1664931297893-0e9b7601d185?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+      "likes": 0
     },
     {
       "id": 3,
       "artist": "Lucía Garó",
-      "image": "https://images.unsplash.com/photo-1664730708547-8442ca10044a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "image": "https://images.unsplash.com/photo-1664730708547-8442ca10044a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "likes": 0
     },
     {
       "id": 4,
       "artist": "Sina Bahar",
-      "image": "https://images.unsplash.com/photo-1664795626749-83a390f25613?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=740&q=80"
+      "image": "https://images.unsplash.com/photo-1664795626749-83a390f25613?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=740&q=80",
+      "likes": 0
     },
     {
       "id": 5,
       "artist": "AXP",
-      "image": "https://images.unsplash.com/photo-1664730219680-fc4d4b566d6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=891&q=80"
+      "image": "https://images.unsplash.com/photo-1664730219680-fc4d4b566d6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=891&q=80",
+      "likes": 0
     },
     {
       "id": 6,
       "artist": "G. Marujo",
-      "image": "https://images.unsplash.com/photo-1664445668992-f8968fda35d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+      "image": "https://images.unsplash.com/photo-1664445668992-f8968fda35d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "likes": 0
     },
     {
       "id": 7,
       "artist": "Ali Haghighi",
-      "image": "https://images.unsplash.com/photo-1664365033139-e38c1679a8c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80"
+      "image": "https://images.unsplash.com/photo-1664365033139-e38c1679a8c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80",
+      "likes": 0
     },
     {
       "id": 8,
       "artist": "Salman Sidheek",
-      "image": "https://images.unsplash.com/photo-1615471723221-bb2008c46286?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+      "image": "https://images.unsplash.com/photo-1615471723221-bb2008c46286?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "likes": 0
     },
     {
       "id": 9,
       "artist": "Julia Verea",
-      "image": "https://images.unsplash.com/photo-1664435936850-4fe03337694d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "image": "https://images.unsplash.com/photo-1664435936850-4fe03337694d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "likes": 0
     },
     {
       "id": 10,
       "artist": "Jürgen Scheeff",
-      "image": "https://images.unsplash.com/photo-1664373073186-25ea5c93a26b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+      "image": "https://images.unsplash.com/photo-1664373073186-25ea5c93a26b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "likes": 0
     },
     {
       "id": 11,
       "artist": "Max Lissenden",
-      "image": "https://images.unsplash.com/photo-1664179532605-64fac359faef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJEbzQ4Y1Vod25ZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+      "image": "https://images.unsplash.com/photo-1664179532605-64fac359faef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJEbzQ4Y1Vod25ZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+      "likes": 0
     },
     {
       "id": 12,
       "artist": "Jeff Wang",
-      "image": "https://images.unsplash.com/photo-1660620274020-342778a161fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ3fGJEbzQ4Y1Vod25ZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+      "image": "https://images.unsplash.com/photo-1660620274020-342778a161fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ3fGJEbzQ4Y1Vod25ZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+      "likes": 0
     },
     {
       "id": 13,
       "artist": "Salman Sidheek",
-      "image": "https://images.unsplash.com/photo-1650257441244-23a30037d4c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+      "image": "https://images.unsplash.com/photo-1650257441244-23a30037d4c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "likes": 0
     },
     {
       "id": 14,
       "artist": "Lazar Gugleta",
-      "image": "https://images.unsplash.com/photo-1661581906821-06890e0dab64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+      "image": "https://images.unsplash.com/photo-1661581906821-06890e0dab64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "likes": 0
     },
     {
       "id": 15,
       "artist": "Adam Hlásný",
-      "image": "https://images.unsplash.com/photo-1664540244326-31130ab4d155?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
+      "image": "https://images.unsplash.com/photo-1664540244326-31130ab4d155?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+      "likes": 0
     },
     {
       "id": 16,
       "artist": "Bastian Riccardi",
-      "image": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+      "image": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "likes": 0
     },
     {
       "id": 17,
       "artist": "Mahdi Bafande",
-      "image": "https://images.unsplash.com/photo-1664829406184-def3409e8343?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+      "image": "https://images.unsplash.com/photo-1664829406184-def3409e8343?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+      "likes": 0
     },
     {
       "id": 18,
       "artist": "Bob Brewer",
-      "image": "https://images.unsplash.com/photo-1664892056164-a35ee80e5c91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60https://images.unsplash.com/photo-1664892056164-a35ee80e5c91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+      "image": "https://images.unsplash.com/photo-1664892056164-a35ee80e5c91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60https://images.unsplash.com/photo-1664892056164-a35ee80e5c91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+      "likes": 0
     },
     {
       "id": 19,
       "artist": "Doan Anh",
-      "image": "https://images.unsplash.com/photo-1663676128186-ddd0755f38db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "image": "https://images.unsplash.com/photo-1663676128186-ddd0755f38db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "likes": 0
     },
     {
       "id": 20,
       "artist": "Mehmet Turgut Kirkgoz",
-      "image": "https://images.unsplash.com/photo-1662723635945-9804ed96f9af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+      "image": "https://images.unsplash.com/photo-1662723635945-9804ed96f9af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "likes": 0
     },
     {
       "id": 21,
       "artist": "Bernd Dittrich",
-      "image": "https://images.unsplash.com/photo-1665002931165-58406d38aaf6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "image": "https://images.unsplash.com/photo-1665002931165-58406d38aaf6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "likes": 0
     }
   ]
 }
