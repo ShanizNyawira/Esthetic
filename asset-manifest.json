@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Besthetic%7D/static/css/main.073c9b0a.css",
+    "main.js": "/%7Besthetic%7D/static/js/main.12711942.js",
+    "static/js/787.596e6f26.chunk.js": "/%7Besthetic%7D/static/js/787.596e6f26.chunk.js",
+    "index.html": "/%7Besthetic%7D/index.html",
+    "main.073c9b0a.css.map": "/%7Besthetic%7D/static/css/main.073c9b0a.css.map",
+    "main.12711942.js.map": "/%7Besthetic%7D/static/js/main.12711942.js.map",
+    "787.596e6f26.chunk.js.map": "/%7Besthetic%7D/static/js/787.596e6f26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.12711942.js"
+  ]
+}
