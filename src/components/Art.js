@@ -18,12 +18,7 @@ function Art({ art }) {
                     onClick={() => {
                         setLiked(true)
                         setNoOfLikes(parseInt(noOfLikes + 1))
-
-
-
                     }}
-
-
                 />
             </div>
         </div>
