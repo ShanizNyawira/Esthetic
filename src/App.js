@@ -14,17 +14,17 @@ function App() {
             .then(data => setArt(data));
     }, []);
 
-    function handleAdd(art) {
+    function handleAdd(artt) {
       fetch('http://localhost:8000/Art', {
         method: 'POST',
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(art)
+        body: JSON.stringify(artt)
       }).then(res => {
         if (res.ok) {
           alert('Art added successfully');
         }
       })
-        const newArt = [art, ...art];
+        const newArt = [...art,artt];
         setArt(newArt);
     }
 

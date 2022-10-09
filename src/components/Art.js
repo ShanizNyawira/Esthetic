@@ -10,23 +10,23 @@ function Art({ art }) {
             <p>{art.artist}</p>
             <div className="likes">
                 <span>{noOfLikes}</span>
-                <AiFillHeart 
+                <AiFillHeart
                 style={{color: liked ? "red" : "black"}}
                 onClick={()=>{
                     setLiked(!liked)
-                    
+
                     //increase likes
                     if(!liked){
-                        setNoOfLikes(noOfLikes+1)
+                        setNoOfLikes(parseInt(noOfLikes+1))
                     }
                     //decrease likes
                     else{
-                        setNoOfLikes(noOfLikes-1)
+                        setNoOfLikes(parseInt(noOfLikes-1))
                     }
 
                 }}
-                
-                    
+
+
                     />
             </div>
         </div>
