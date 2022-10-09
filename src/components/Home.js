@@ -1,12 +1,11 @@
-import { useState, useEffect } from 'react';
 import Art from './Art';
 
-function Home() {
-    
+function Home({art}) {
+
     return (
         <div className="home">
-            {art.map(art => (
-                <Art key={art.id} art={art} />
+            {art.map(item => (
+                <Art key={item.id} art={item} />
             ))}
         </div>
     );
