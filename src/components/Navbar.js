@@ -3,10 +3,10 @@ function Navbar() {
     return (
         <nav className="navbar">
             <BrowserRouter>
-                <NavLink to="/">
+                <NavLink exact to="/" style={{textDecoration:'none'}}>
                     Esthetica
                 </NavLink>
-                <NavLink to="/add">
+                <NavLink exact to="/add" style={{textDecoration:'none'}}>
                     Add
                 </NavLink>
             </BrowserRouter>
