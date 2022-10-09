@@ -1,9 +1,13 @@
 body{
-  background-color: white;
+  background-color: honeydew;
+}
+.App {
+  text-align: center;
+  color: black ;
 }
 .home input{
-  background-color: #f5f5f5;
-  border: 1px solid #f5f5f5;
+  background-color: whitesmoke;
+  border: 1px solid bisque;
   border-radius: 5px;
   padding: 10px;
   margin: 10px;
@@ -11,8 +15,8 @@ body{
   width: 300px;
 }
 nav{
-  color: black;
   font-size: 1.5rem;
+  font-weight: bold;
   width:60rem;
   height: 4rem;
   margin:auto;
@@ -31,7 +35,7 @@ nav{
 
 .art{
   width:40rem;
-  background-color: white;
+  background-color: whitesmoke;
   margin: 1rem;
   padding: 1rem;
   box-shadow:0 0 3px #000;
