@@ -1,9 +1,18 @@
-
+import { NavLink, BrowserRouter } from "react-router-dom";
 function Navbar() {
     return (
         <nav className="navbar">
-            <h1>Esthetica</h1>
-           
+            <BrowserRouter>
+                <NavLink to="/">
+                    Esthetica
+                </NavLink>
+                <NavLink to="/add">
+                    Add
+                </NavLink>
+            </BrowserRouter>
+
+
+
         </nav>
     );
 }
