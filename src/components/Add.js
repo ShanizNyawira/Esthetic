@@ -1,4 +1,4 @@
-function Add() {
+function Add({addArt}) {
       return (
             <div className="add">
                   <form className="add-form">
