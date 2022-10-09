@@ -2,6 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Home from "./components/Home";
 import Add from './components/Add';
+import About from './components/About';
 import { useState, useEffect } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
@@ -34,9 +35,9 @@ function App() {
      {/* set routes */}
       <BrowserRouter>
         <Routes>
-
+          <Route path="/" element={<Home art={art} />} />
           <Route path="/add" element={<Add addArt={handleAdd}/>} />
-          <Route path="/" element={<Home art={art}/>} />
+          <Route path="/about" element={<About />} />
         </Routes>
       </BrowserRouter>
 

@@ -9,6 +9,9 @@ function Navbar() {
                 <NavLink exact to="/add" style={{textDecoration:'none'}}>
                     Add
                 </NavLink>
+                <NavLink exact to="/about" style={{textDecoration:'none'}}>
+                    About
+                </NavLink>
             </BrowserRouter>
 
 
