@@ -2,14 +2,22 @@
   background-color: bisque;
 }
 
+.home{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .art{
-  width:40%;
+  width:40rem;
 }
 .img{
   width:100%;
   background-color: red;
 }
-
+.img>img{
+  width:100%;
+}
 .add{
   width:40%;
   display: flex;

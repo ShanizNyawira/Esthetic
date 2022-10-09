@@ -6,10 +6,11 @@ function Art({ art }) {
     const [noOfLikes, setNoOfLikes] = useState(art.likes)
     return (
         <div className="art">
+            <h1>{art.artist}</h1>
             <div className='img'>
                 <img src={art.image} alt="art" />
             </div>
-            <p>{art.artist}</p>
+
             <div className="likes">
                 <span>{noOfLikes}</span>
                 <AiFillHeart
