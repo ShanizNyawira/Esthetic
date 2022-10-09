@@ -10,13 +10,13 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 function App() {
   const [art, setArt] = useState([]);
     useEffect(() => {
-        fetch('http://my-json-server.typicode.com/ShanizNyawira/Esthetic/Art')
+        fetch('https://my-json-server.typicode.com/ShanizNyawira/Esthetic/Art')
             .then(res => res.json())
             .then(data => setArt(data));
     }, []);
 
     function handleAdd(artt) {
-      fetch('http://my-json-server.typicode.com/ShanizNyawira/Esthetic/Art', {
+      fetch('https://my-json-server.typicode.com/ShanizNyawira/Esthetic/Art', {
         method: 'POST',
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(artt)
