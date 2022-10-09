@@ -16,7 +16,7 @@ nav{
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 90vh;
+  height: 92vh;
   overflow-y: auto;
 }
 
@@ -50,11 +50,13 @@ input{
   width:30rem;
   height:2rem;
 }
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.likes{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  padding:2rem;
+  font-size: 1.5rem;
+  /* flex-direction: column; */
 }
