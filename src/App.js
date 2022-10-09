@@ -31,9 +31,9 @@ function App() {
 
   return (
     <div className="App">
-      <Navbar />
-     {/* set routes */}
+
       <BrowserRouter>
+      <Navbar />
         <Routes>
           <Route path="/" element={<Home art={art} />} />
           <Route path="/add" element={<Add addArt={handleAdd}/>} />

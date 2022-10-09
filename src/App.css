@@ -1,4 +1,7 @@
 .App {
+
+}
+body{
   background-color: bisque;
 }
 nav{
@@ -59,4 +62,10 @@ input{
   padding:2rem;
   font-size: 1.5rem;
   /* flex-direction: column; */
+}
+
+.about{
+  width:40%;
+  margin: auto;
+  padding: 2rem;
 }
