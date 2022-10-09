@@ -10,13 +10,13 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 function App() {
   const [art, setArt] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:8000/Art')
+        fetch('http://my-json-server.typicode.com/ShanizNyawira/Esthetic/Art')
             .then(res => res.json())
             .then(data => setArt(data));
     }, []);
 
     function handleAdd(artt) {
-      fetch('http://localhost:8000/Art', {
+      fetch('http://my-json-server.typicode.com/ShanizNyawira/Esthetic/Art', {
         method: 'POST',
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(artt)
@@ -28,6 +28,14 @@ function App() {
         const newArt = [...art,artt];
         setArt(newArt);
     }
+function handleSearch(e) {
+    const search = e.target.value;
+    const filteredArt = art.filter((art) => art.artist.toLowerCase().includes(search.toLowerCase()));
+    setArt(filteredArt);
+  }
+  
+
+   
 
   return (
     <div className="App">
@@ -35,7 +43,7 @@ function App() {
       <BrowserRouter>
       <Navbar />
         <Routes>
-          <Route path="/" element={<Home art={art} />} />
+          <Route path="/" element={<Home art={art} handleSearch={handleSearch} />} />
           <Route path="/add" element={<Add addArt={handleAdd}/>} />
           <Route path="/about" element={<About />} />
         </Routes>
