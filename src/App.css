@@ -2,17 +2,13 @@
   background-color: bisque;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.art{
+  width:40%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.img{
+  width:100%;
+  background-color: red;
 }
-
 
 .add{
   width:40%;
